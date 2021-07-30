@@ -16,5 +16,5 @@ def app_gh_message():
 
 
 if __name__=='__main__':
-    apprun(debug=True)
+    app.run(debug=True)
 d
