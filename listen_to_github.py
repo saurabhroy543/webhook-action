@@ -14,3 +14,6 @@ def app_gh_message():
         print(my_info)
         return my_info
 
+
+if __name__=='__main__':
+    app.run(debug=True)
